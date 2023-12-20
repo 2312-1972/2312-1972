@@ -33,6 +33,15 @@
 <img  alt="slack"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />&nbsp;&nbsp;&nbsp;
 <img  alt="figma"  width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;
 <img  alt="trello"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="lighthouse"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/lighthouse.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="mongodb"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/mongodb.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="SEO"  width="80px" height="80px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/SEO.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="canva"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/canva-logo.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="gtmetrix"  width="80px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/Gtmetrix.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="devtools"  width="80px" height="80px"   src="https://github.com/2312-1972/PORTFOLIO/blob/main/mon-portfolio/public/images/devtools.png?raw=true" />&nbsp;&nbsp;&nbsp;
+<img  alt="API"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/API.webp" />&nbsp;&nbsp;&nbsp;
+<img  alt="agile"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/agile.avif" />&nbsp;&nbsp;&nbsp;
+<img  alt="pearltress"  width="60px" height="60px"   src="https://raw.githubusercontent.com/2312-1972/PORTFOLIO/main/mon-portfolio/public/images/pearltress.webp" />&nbsp;&nbsp;&nbsp;
 </p><br />
         <p >
           Mon approche du développement web se caractérise par une attention
