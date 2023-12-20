@@ -51,9 +51,9 @@
           clients est essentielle pour comprendre leurs besoins uniques et créer
           des solutions sur mesure qui dépassent leurs attentes.
         </p>
-<p>
-       <img align="center" width="100%" alt="GIF" src= "https://media.giphy.com/media/kB2uyoigIXPMI/giphy.gif" />
-       </p>
+<p align="center">
+       <img align="right" width="50%" alt="GIF" src= "https://media.giphy.com/media/kB2uyoigIXPMI/giphy.gif" />
+</p><br />
         <p >
           Je crois fermement en la collaboration et en la communication
           transparente. Travailler en équipe pour résoudre des problèmes
@@ -62,11 +62,13 @@
           rester "Agile" dans un environnement en constante évolution,
           m'assurant ainsi de toujours rester à la pointe de la technologie.
         </p>
-<p align="center">
-  <img align="center" width="30%" alt="GIF" src="https://media.giphy.com/media/dYRwBXzRFRPIdxGfwv/giphy.gif"/>
+      
+<p align:"right">
+  <img   width="50%" alt="GIF" src="https://media2.giphy.com/media/jHRAf2A6WuduX2raSe/giphy.gif?cid=ecf05e47gwpde2svnpbhs3rhn5mlf03kh4jqubhy3che9etw&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+  
 </p>
 
- <p align="center">
+ <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
 
@@ -75,12 +77,19 @@
    <img  width="40px" height="40px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/mon-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true"/> 
  </a> &nbsp;&nbsp;&nbsp;
 
-
 <a href="https://www.linkedin.com/in/frederic-t-283ab24b/"> 
 <img  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/>
-</a>
-   </p>
+</a> &nbsp;&nbsp;&nbsp;
 
+<a href="https://discord.gg/Vjp2ppaz"> 
+<img  width="40px" height="40px" alt="discord" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://portfolio-frederic-toppan.vercel.app/contact"> 
+<img  width="60px" height="40px" alt="contact" src="https://e7.pngegg.com/pngimages/411/146/png-clipart-computer-icons-envelope-envelope-miscellaneous-angle.png"/>
+</a>
+
+   </p>
 
 
 
