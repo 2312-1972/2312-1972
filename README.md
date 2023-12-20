@@ -39,7 +39,9 @@
   <img align="center" width="50%" alt="GIF" src="https://media.giphy.com/media/dYRwBXzRFRPIdxGfwv/giphy.gif"/>
 </p>
 
-
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
+   </p>
 
 
 
