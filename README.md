@@ -32,7 +32,6 @@
 <img  alt="git"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
 <img  alt="slack"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />&nbsp;&nbsp;&nbsp;
 <img  alt="figma"  width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;
-          <img  alt="lighthouse"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lighthouse/lighthouse-original.svg" />&nbsp;&nbsp;&nbsp;
 <img  alt="trello"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;&nbsp;
 </p><br />
         <p >
@@ -58,14 +57,17 @@
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
-[Mon Site Web]: https://portfolio-frederic-toppan.vercel.app/
-[Linkedin]: https://www.linkedin.com/in/frederic-t-283ab24b/
+
 <p align="center">
- <a href=" https://portfolio-frederic-toppan.vercel.app/"> <img align="center"  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/></a>
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/frederic-t-283ab24b/"> <img align="center"  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/> </a>
-</p>
+ <a href=" https://portfolio-frederic-toppan.vercel.app/"> 
+   <img  width="40px" height="40px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/mon-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true"/> 
+ </a> &nbsp;&nbsp;&nbsp;
+
+
+<a href="https://www.linkedin.com/in/frederic-t-283ab24b/"> 
+<img  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/>
+</a>
+   </p>
 
 
 
