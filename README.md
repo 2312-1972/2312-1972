@@ -7,7 +7,7 @@
   tout d'abord suivi des cours en marketing digital grâce notamment au site du zéro ⚡ alias "Openclassroom", et enfin le graal j'ai eu 
   la chance de suivre une formation diplômante de développeur web. Enthousiaste du code et passionné par le monde numérique, je suis un
   développeur web dédié à créer des expériences en ligne exceptionnelles. Avec une solide formation et une expérience pratique,
-  je suis constamment à la recherche de nouvelles façons d'innover et d'améliorer la façon dont les utilisateurs interagissent avec le web.
+  je suis constamment à la recherche de nouvelles façons d'innover et d'améliorer la façon dont les utilisateurs interagissent avec le web.<br />
 <p align="center">
   <img align="right" width="40%" alt="GIF" src="https://media.giphy.com/media/3ornjMPZXvOLMDvMcw/giphy.gif"/>
   
@@ -18,7 +18,23 @@
           frameworks modernes tels que React.js et Node.js. J'ai développé et
           déployé avec succès une variété de sites web réactifs, du simple site
           vitrine aux applications web complexes.
-        </p>
+        </p><br />
+        <p align="center">
+<br />
+<img  alt="HTML" width="60px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="CSS" width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="Sass" width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="JavaScript" width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="React"  width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="Redux" width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="Jest"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="npm"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="git"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="slack"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="figma"  width="60px" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />&nbsp;&nbsp;&nbsp;
+          <img  alt="lighthouse"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lighthouse/lighthouse-original.svg" />&nbsp;&nbsp;&nbsp;
+<img  alt="trello"  width="60px" height="60px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />&nbsp;&nbsp;&nbsp;
+</p><br />
         <p >
           Mon approche du développement web se caractérise par une attention
           méticuleuse aux détails, un engagement envers la qualité du code et un
@@ -42,7 +58,14 @@
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
-
+[Mon Site Web]: https://portfolio-frederic-toppan.vercel.app/
+[Linkedin]: https://www.linkedin.com/in/frederic-t-283ab24b/
+<p align="center">
+ <a href=" https://portfolio-frederic-toppan.vercel.app/"> <img align="center"  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/></a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/frederic-t-283ab24b/"> <img align="center"  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/> </a>
+</p>
 
 
 
