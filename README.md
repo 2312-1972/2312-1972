@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img align="center" width="100%" alt="GIF" src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif"/>
+</p>
+<
+<p align="center">
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/3ornjMPZXvOLMDvMcw/giphy.gif"/>
+</p>
+
+<p align="center">
+  <img align="center" width="80%" alt="GIF" src="https://media.giphy.com/media/dYRwBXzRFRPIdxGfwv/giphy.gif"/>
+</p>
 
 <!--
 **2312-1972/2312-1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
