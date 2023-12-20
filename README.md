@@ -51,7 +51,10 @@
           clients est essentielle pour comprendre leurs besoins uniques et créer
           des solutions sur mesure qui dépassent leurs attentes.
         </p>
-        <p className="letter-space intro-contact p4">
+<p>
+       <img align="center" width="100%" alt="GIF" src= "https://media.giphy.com/media/kB2uyoigIXPMI/giphy.gif" />
+       </p>
+        <p >
           Je crois fermement en la collaboration et en la communication
           transparente. Travailler en équipe pour résoudre des problèmes
           complexes et atteindre des objectifs communs est quelque chose que
@@ -60,7 +63,7 @@
           m'assurant ainsi de toujours rester à la pointe de la technologie.
         </p>
 <p align="center">
-  <img align="center" width="50%" alt="GIF" src="https://media.giphy.com/media/dYRwBXzRFRPIdxGfwv/giphy.gif"/>
+  <img align="center" width="30%" alt="GIF" src="https://media.giphy.com/media/dYRwBXzRFRPIdxGfwv/giphy.gif"/>
 </p>
 
  <p align="center">
