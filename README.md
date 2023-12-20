@@ -62,12 +62,16 @@
           rester "Agile" dans un environnement en constante évolution,
           m'assurant ainsi de toujours rester à la pointe de la technologie.
         </p>
-      
-<p align:"right">
-  <img   width="50%" alt="GIF" src="https://media2.giphy.com/media/jHRAf2A6WuduX2raSe/giphy.gif?cid=ecf05e47gwpde2svnpbhs3rhn5mlf03kh4jqubhy3che9etw&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
-  
-</p>
+   
+🔭 Je travaille en ce moment sur le site  **"aux ciseaux de Shirley"**.
 
+🌱 Je continue d'apprendre le **Javascript** .
+
+👯 J'aimerai collaborer sur de nouveaux  projets **React Redux**.
+
+📫 Contactez moi  directement: **toppan.frederic@gmail.com**.
+
+⚡ Fun fact (fait amusant!!) : On me surnomme **Ragnar**.
  <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
@@ -98,7 +102,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on web site "aux ciseaux de Shirley"
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
