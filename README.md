@@ -79,7 +79,8 @@ graph TD;
    Code --> Eat;
    Eat  --> Sleep;
    Sleep --> Code;
-  ```  
+  ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&theme=dracula)
  <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
