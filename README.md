@@ -73,14 +73,18 @@
 
 ⚡ Fun fact (fait amusant!!) : On me surnomme **Ragnar**.
 
-### My daily routine
+ ### My daily routine
    ```mermaid
 graph TD;
    Code --> Eat;
    Eat  --> Sleep;
    Sleep --> Code;
-  ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&theme=dracula)
+  ```  
+
+
+| <a href="https://github.com/2312-1972/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="2312-1972 github stats" /></a> | <a href="https://github.com/2312-1972/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2312-1972&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
  <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
