@@ -72,6 +72,14 @@
 📫 Contactez moi  directement: **toppan.frederic@gmail.com**.
 
 ⚡ Fun fact (fait amusant!!) : On me surnomme **Ragnar**.
+
+### My daily routine
+   ```mermaid
+graph TD;
+   Code --> Eat;
+   Eat  --> Sleep;
+   Sleep --> Code;
+  ```  
  <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
    </p>
