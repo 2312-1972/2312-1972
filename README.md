@@ -65,7 +65,7 @@
    
 🔭 Je travaille en ce moment sur le site  **"aux ciseaux de Shirley"**.
 
-🌱 Je continue d'apprendre le **Javascript** .
+🌱 Je continue d'apprendre le **Javascript** et je me forme actuellement à la **cybersecurité** .
 
 👯 J'aimerai collaborer sur de nouveaux  projets **React Redux**.
 
