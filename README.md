@@ -97,7 +97,7 @@ graph TD;
    <img  width="40px" height="40px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/mon-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true"/> 
  </a> &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/frederic-t-283ab24b/"> 
+<a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/"> 
 <img  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/>
 </a> &nbsp;&nbsp;&nbsp;
 
