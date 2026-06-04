@@ -83,7 +83,9 @@ graph TD;
   ```  
 
 
-| <a href="https://github.com/2312-1972/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="2312-1972 github stats" /></a> | <a href="https://github.com/2312-1972/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2312-1972&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=bash" alt="GitHub Stats de Ragnar" />
+</a>
 | ------------- | ------------- |
 
  <p align="center" >
