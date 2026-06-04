@@ -84,15 +84,15 @@ graph TD;
 
 
 <p align="center">
-  <!-- GitHub Stats via un Badge officiel stable -->
+  <!-- Vos VRAIES STATS de langues dynamiques (via l'alternative GitHub Readme Streak Stats) -->
   <a href="https://github.com/2312-1972" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-Consulter%20Mon%20Activité-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2312-1972&theme=bash" alt="GitHub Stats de Ragnar" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Compteur alternatif en Badge Shields.io -->
-  <img src="https://img.shields.io/badge/Statut_Profil-Visiteur_Actif-0e75b6?style=for-the-badge" alt="Statut Profil" />
+  <!-- Votre VRAI COMPTEUR DE VISITES dynamique avec de vrais chiffres (via l'alternative Hits) -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2312-1972%2F2312-1972&count_bg=%230E75B6&title_bg=%23555555&title=Profil+Vu&edge_flat=false" alt="Nombre de vues" />
 </p>
 
 <p align="center">
