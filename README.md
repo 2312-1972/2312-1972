@@ -83,33 +83,38 @@ graph TD;
   ```  
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=bash" alt="GitHub Stats de Ragnar" />
-</a>
-| ------------- | ------------- |
-
- <p align="center" >
-    <img src="https://komarev.com/ghpvc/?username=2312-1972&label=Profil%20vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
-   </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=bash" alt="GitHub Stats de Ragnar" />
+  </a>
+</p>
 
 <p align="center">
- <a href="https://portfolio-frederic-toppan.vercel.app/"> 
-   <img  width="40px" height="40px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/mon-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true"/> 
- </a> &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghvc/?username=2312-1972&label=Profil%20Vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
+</p>
 
-<a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/"> 
-<img  width="40px" height="40px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/>
-</a> &nbsp;&nbsp;&nbsp;
+<br />
 
-<a href="https://discord.gg/Vjp2ppaz"> 
-<img  width="40px" height="40px" alt="discord" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png"/>
-</a> &nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://portfolio-frederic-toppan.vercel.app/" target="_blank">
+    <img width="48px" height="48px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/non-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://portfolio-frederic-toppan.vercel.app/contact"> 
-<img  width="60px" height="40px" alt="contact" src="https://e7.pngegg.com/pngimages/411/146/png-clipart-computer-icons-envelope-envelope-miscellaneous-angle.png"/>
-</a>
+  <a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/" target="_blank">
+    <img width="48px" height="48px" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-   </p>
+  <a href="https://discord.gg/VjpZppaz" target="_blank">
+    <img width="48px" height="48px" alt="Discord" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://portfolio-frederic-toppan.vercel.app/contact" target="_blank">
+    <img width="60px" height="48px" alt="contact" src="https://cdn-icons-png.flaticon.com/512/542/542689.png" />
+  </a>
+</p>
 
 
 
