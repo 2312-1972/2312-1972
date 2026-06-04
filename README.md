@@ -84,17 +84,18 @@ graph TD;
 
 
 <p align="center">
-  <!-- Vos VRAIES STATS de langues dynamiques (via l'alternative GitHub Readme Streak Stats) -->
-  <a href="https://github.com/2312-1972" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2312-1972&theme=bash" alt="GitHub Stats de Ragnar" />
-  </a>
+  <kbd>📊 <b>STATISTIQUES DE RAGNAR</b></kbd>
 </p>
 
-<p align="center">
-  <!-- Votre VRAI COMPTEUR DE VISITES dynamique avec de vrais chiffres (via l'alternative Hits) -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2312-1972%2F2312-1972&count_bg=%230E75B6&title_bg=%23555555&title=Profil+Vu&edge_flat=false" alt="Nombre de vues" />
-</p>
+<blockquote>
+  <p align="center">
+    💡 Mon activité et mes projets en cours sont directement consultables dans l'onglet 
+    <a href="https://github.com/2312-1972?tab=repositories" target="_blank"><b>Repositories</b></a> 
+    ou via mes contributions ci-dessous.
+  </p>
+</blockquote>
 
+<br />
 <p align="center">
   <a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
