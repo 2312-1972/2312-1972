@@ -89,9 +89,7 @@ graph TD;
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=2312-1972&label=Profil%20Vu&color=0e75b6&style=for-the-badge" alt="Profil Vu" />
-</p>
+<img src="https://komarev.com/ghvc/?username=2312-1972&label=Profils_Vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
 
 <br />
 
