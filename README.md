@@ -84,16 +84,16 @@ graph TD;
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&theme=bash" alt="GitHub Stats" />
+  <!-- GitHub Stats via un Badge officiel stable -->
+  <a href="https://github.com/2312-1972" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-Consulter%20Mon%20Activité-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
   </a>
 </p>
 
-<p align="center" >
-  <img src="https://komarev.com/ghvc/?username=2312-1972&label=Profils_Vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
+<p align="center">
+  <!-- Compteur alternatif en Badge Shields.io -->
+  <img src="https://img.shields.io/badge/Statut_Profil-Visiteur_Actif-0e75b6?style=for-the-badge" alt="Statut Profil" />
 </p>
-
-<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/" target="_blank">
