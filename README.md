@@ -83,31 +83,38 @@ graph TD;
   ```  
 
 
-| <a href="https://github.com/2312-1972/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&include_all_commits=true&theme=bash" alt="GitHub Stats de Ragnar" /></a> | ------------------ |
-
-<p align="center" >
-  <img src="https://komarev.com/ghvc/?username=2312-1972&label=Profil%20Vu&color=0e75b6&style=for-the-badge" alt="frederic toppan" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=2312-1972&show_icons=true&theme=bash" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://portfolio-frederic-toppan.vercel.app/">
-  <img width="40px" height="40px" alt="The art of code" src="https://github.com/2312-1972/PORTFOLIO/blob/main/non-portfolio/public/images/Favicon/favicon_io%20(2)/favicon-32x32.png?raw=true"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/frederic-t-283ab24b/">
-  <img width="40px" height="40px" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/800px-Linkedin_icon.svg.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.gg/VjpZppaz">
-  <img width="40px" height="40px" alt="discord" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-frederic-toppan.vercel.app/contact">
-  <img width="60px" height="48px" alt="contact" src="https://e7.pngegg.com/pngimages/411/146/png-clipart-computer-icons-envelope-envelope-miscellaneous-angle.png"/>
-</a>
-
+  <img src="https://komarev.com/ghvc/?username=2312-1972&label=Profil%20Vu&color=0e75b6&style=for-the-badge" alt="Profil Vu" />
 </p>
 
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/frederic-francois-t-283ab24b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discord.gg/VjpZppaz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://portfolio-frederic-toppan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:toppan.frederic@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 <!--
